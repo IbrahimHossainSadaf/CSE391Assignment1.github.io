@@ -8,9 +8,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     scroll-behavior: smooth;
-    background-image: url('assets/background.PNG');
-    background-size: cover; 
-    background-position: center;
+    background: linear-gradient(45deg, #333333, #999999);
 }
 
 p {
