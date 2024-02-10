@@ -8,7 +8,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     scroll-behavior: smooth;
-    background-image: url('assets/background.jpg');
+    background-image: url('assets/background.PNG');
     background-size: cover; 
     background-position: center;
 }
